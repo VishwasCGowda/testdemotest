@@ -1,0 +1,1 @@
+{"evt":"version_file", "HW_Version":"1.1", "FW_Version":"1.0.11", "byte_count":534240, "CRC":"F772"}
